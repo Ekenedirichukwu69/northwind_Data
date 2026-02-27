@@ -1,4 +1,4 @@
-# Vinecoast_Data# SQL Data Analysis Project
+# northwind_Data# SQL Data Analysis Project
 
 ## Project Overview
 This project demonstrates my ability to work with relational databases using SQL. The goal is to analyze product and sales data by writing queries that answer key business questions. The project involves retrieving, filtering, and aggregating data from a sample database to produce actionable insights.
